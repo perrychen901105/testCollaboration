@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>F9D17D6D-A6CF-400D-B0C2-1FB348859143</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>testCollabortion</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>37F6A00A4445D69F1285029A9485F5C87528C155</key>
 		<string>https://github.com/perrychen901105/testCollaboration.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>testCollabortion/testCollabortion.xcodeproj/project.xcworkspace</string>
+	<string>testCollabortion/testCollabortion.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>37F6A00A4445D69F1285029A9485F5C87528C155</key>
